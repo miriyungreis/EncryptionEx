@@ -53,8 +53,6 @@ def test_repeated_xor():
     print(repeated_xor(b"thebaldeagle", b"LMN"))
 # Press the green button in the gutter to run the script.
 
-def hello():
-    print("hello")
     
 if __name__ == '__main__':
     # print(original1(b"\x38\x24\x29\x2e\x2d\x20\x28\x29\x2d\x2b\x20\x29"))
